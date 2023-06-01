@@ -1,8 +1,6 @@
-# AI_physics
-
-# 인공지능_물리학
 # PHYS466
 
+# 인공지능_물리학
 ---
 ## Assignment 1 
 
